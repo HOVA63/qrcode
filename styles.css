@@ -20,15 +20,17 @@ body {
 .firstbox img {
     border-radius: 3%;
     margin-top: 5%;
-    margin-left: 5.5%;
+    margin-left: 4.8%;
 }
 
 .firstbox .text {
     color: #2e3856;
     font-family: Outfit;
     font-weight: 700;
-    font-size: 18px;
+    font-size: 22px;
     margin-top: 7%;
+    margin-left: 5%;
+    margin-right: 5%;
     text-align: center;
 }
 
@@ -36,7 +38,7 @@ body {
     color: #b6bbc3;
     font-family: Outfit;
     font-weight: 400;
-    font-size: 12px;
+    font-size: 15px;
     display: block;
     text-align: center;
     margin: 5% 9% 9% 9%;
